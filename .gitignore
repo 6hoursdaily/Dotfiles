@@ -1,0 +1,6 @@
+# ignore the following files:
+.DS_Store
+.bash_profile
+.zprofile
+*.tmp
+*.swap
