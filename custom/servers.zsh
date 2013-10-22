@@ -1,0 +1,5 @@
+alias linode='ssh deployer@50.116.31.55'
+alias dell='ssh sixhoursdaily@dell.local'
+alias mini='ssh deployer@192.168.0.199'
+alias mediaserver='ssh jerry@192.168.0.199'
+alias server_edit='ssh -t jerry@192.168.0.199 $1'
